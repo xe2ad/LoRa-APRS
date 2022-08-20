@@ -6,6 +6,6 @@ Aquí puedes encontrar las librerías necesarias para configurar un iGate, las c
 
 https://github.com/lora-aprs/LoRa_APRS_iGate
 
-Un gran agradecimiento a @peterus Peter Buchegger quien subió estas librerías en código abierto para ser usadas.
+Un gran agradecimiento a *Peter Buchegger* (@peterus) quien subió estas librerías en código abierto para ser usadas.
 
-Este proyecto de código abierto se lo dedico a mi gran amigo, tocayo y experto en APRS David de Avila XE1SDK (sk).
+_Este proyecto de código abierto se lo dedico a mi gran amigo, tocayo y experto en APRS *David de Avila XE1SDK* (sk)._
