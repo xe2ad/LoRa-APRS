@@ -1,4 +1,4 @@
-# LoRa-APRS
+# LoRa-APRS iGate
 LoRa-APRS iGate en la banda de UHF (433MHz)
 
 
