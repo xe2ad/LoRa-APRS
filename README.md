@@ -1,12 +1,8 @@
 # LoRa-APRS
-iGate LoRa-APRS en la banda de UHF (433MHz)
+LoRa-APRS iGate en la banda de UHF (433MHz)
 
 
-Aquí puedes encontrar las librerías necesarias para configurar un iGate. 
-
-Estas librerías fueron copiadas del siguiente link:
-
-[GitHub Pages]([https://pages.github.com/](https://github.com/lora-aprs/LoRa_APRS_iGate))
+Aquí puedes encontrar las librerías necesarias para configurar un iGate, las cuales fueron copiadas del siguiente link:
 
 https://github.com/lora-aprs/LoRa_APRS_iGate
 
